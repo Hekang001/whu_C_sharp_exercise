@@ -1,0 +1,11 @@
+E:\exercise\hekang_C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+E:\exercise\hekang_C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+E:\exercise\hekang_C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+E:\exercise\hekang_C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+E:\exercise\hekang_C#\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+E:\exercise\hekang_C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+E:\exercise\hekang_C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+E:\exercise\hekang_C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+E:\exercise\hekang_C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+E:\exercise\hekang_C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+E:\exercise\hekang_C#\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
