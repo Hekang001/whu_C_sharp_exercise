@@ -1,0 +1,11 @@
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+E:\Github\LocalGit\whu_C_sharp_exercise\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
