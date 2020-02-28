@@ -1,0 +1,6 @@
+E:\exercise\hekang_C#\program\program\bin\Debug\program.exe.config
+E:\exercise\hekang_C#\program\program\bin\Debug\program.exe
+E:\exercise\hekang_C#\program\program\bin\Debug\program.pdb
+E:\exercise\hekang_C#\program\program\obj\Debug\day02_01.csproj.CoreCompileInputs.cache
+E:\exercise\hekang_C#\program\program\obj\Debug\program.exe
+E:\exercise\hekang_C#\program\program\obj\Debug\program.pdb

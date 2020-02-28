@@ -1,0 +1,7 @@
+E:\exercise\hekang_C#\day02_03\day02_03\obj\Debug\day02_03.csprojAssemblyReference.cache
+E:\exercise\hekang_C#\day02_03\day02_03\obj\Debug\day02_03.csproj.CoreCompileInputs.cache
+E:\exercise\hekang_C#\day02_03\day02_03\bin\Debug\day02_03.exe.config
+E:\exercise\hekang_C#\day02_03\day02_03\bin\Debug\day02_03.exe
+E:\exercise\hekang_C#\day02_03\day02_03\bin\Debug\day02_03.pdb
+E:\exercise\hekang_C#\day02_03\day02_03\obj\Debug\day02_03.exe
+E:\exercise\hekang_C#\day02_03\day02_03\obj\Debug\day02_03.pdb
