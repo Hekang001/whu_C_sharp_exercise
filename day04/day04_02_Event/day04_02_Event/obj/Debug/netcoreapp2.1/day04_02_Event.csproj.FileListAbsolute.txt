@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\bin\Debug\netcoreapp2.1\day04_02_Event.deps.json
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\bin\Debug\netcoreapp2.1\day04_02_Event.runtimeconfig.json
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\bin\Debug\netcoreapp2.1\day04_02_Event.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\bin\Debug\netcoreapp2.1\day04_02_Event.dll
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\bin\Debug\netcoreapp2.1\day04_02_Event.pdb
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\obj\Debug\netcoreapp2.1\day04_02_Event.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\obj\Debug\netcoreapp2.1\day04_02_Event.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\obj\Debug\netcoreapp2.1\day04_02_Event.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\obj\Debug\netcoreapp2.1\day04_02_Event.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\obj\Debug\netcoreapp2.1\day04_02_Event.dll
+C:\Users\Administrator\source\repos\day04_02_Event\day04_02_Event\obj\Debug\netcoreapp2.1\day04_02_Event.pdb

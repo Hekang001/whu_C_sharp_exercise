@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\bin\Debug\netcoreapp2.1\day04_01_GenericLinkedList.deps.json
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\bin\Debug\netcoreapp2.1\day04_01_GenericLinkedList.runtimeconfig.json
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\bin\Debug\netcoreapp2.1\day04_01_GenericLinkedList.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\bin\Debug\netcoreapp2.1\day04_01_GenericLinkedList.dll
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\bin\Debug\netcoreapp2.1\day04_01_GenericLinkedList.pdb
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\obj\Debug\netcoreapp2.1\day04_01_GenericLinkedList.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\obj\Debug\netcoreapp2.1\day04_01_GenericLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\obj\Debug\netcoreapp2.1\day04_01_GenericLinkedList.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\obj\Debug\netcoreapp2.1\day04_01_GenericLinkedList.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\obj\Debug\netcoreapp2.1\day04_01_GenericLinkedList.dll
+C:\Users\Administrator\source\repos\day04_01_GenericLinkedList\day04_01_GenericLinkedList\obj\Debug\netcoreapp2.1\day04_01_GenericLinkedList.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\bin\Debug\netcoreapp2.1\day04_02_AlarmClock.deps.json
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\bin\Debug\netcoreapp2.1\day04_02_AlarmClock.runtimeconfig.json
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\bin\Debug\netcoreapp2.1\day04_02_AlarmClock.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\bin\Debug\netcoreapp2.1\day04_02_AlarmClock.dll
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\bin\Debug\netcoreapp2.1\day04_02_AlarmClock.pdb
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\obj\Debug\netcoreapp2.1\day04_02_AlarmClock.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\obj\Debug\netcoreapp2.1\day04_02_AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\obj\Debug\netcoreapp2.1\day04_02_AlarmClock.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\obj\Debug\netcoreapp2.1\day04_02_AlarmClock.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\obj\Debug\netcoreapp2.1\day04_02_AlarmClock.dll
+C:\Users\Administrator\source\repos\day04_02_AlarmClock\day04_02_AlarmClock\obj\Debug\netcoreapp2.1\day04_02_AlarmClock.pdb
