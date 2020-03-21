@@ -1,0 +1,10 @@
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\bin\Debug\netcoreapp1.1\day05_01_Order.deps.json
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\bin\Debug\netcoreapp1.1\day05_01_Order.runtimeconfig.json
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\bin\Debug\netcoreapp1.1\day05_01_Order.runtimeconfig.dev.json
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\bin\Debug\netcoreapp1.1\day05_01_Order.dll
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\bin\Debug\netcoreapp1.1\day05_01_Order.pdb
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\obj\Debug\netcoreapp1.1\day05_01_Order.csprojAssemblyReference.cache
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\obj\Debug\netcoreapp1.1\day05_01_Order.csproj.CoreCompileInputs.cache
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\obj\Debug\netcoreapp1.1\day05_01_Order.AssemblyInfo.cs
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\obj\Debug\netcoreapp1.1\day05_01_Order.dll
+E:\exercise\hekang_C#\day05_01_Order\day05_01_Order\obj\Debug\netcoreapp1.1\day05_01_Order.pdb
