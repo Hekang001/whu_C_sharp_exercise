@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "day06_01_OrderExtension/1.0.0": {
+        "runtime": {
+          "day06_01_OrderExtension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day06_01_OrderExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
