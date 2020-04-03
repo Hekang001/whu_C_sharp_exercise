@@ -1,0 +1,10 @@
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\obj\Debug\day07_CayleyTree.csprojAssemblyReference.cache
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\obj\Debug\day07_CayleyTree.Form1.resources
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\obj\Debug\day07_CayleyTree.Properties.Resources.resources
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\obj\Debug\day07_CayleyTree.csproj.GenerateResource.cache
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\obj\Debug\day07_CayleyTree.csproj.CoreCompileInputs.cache
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\bin\Debug\day07_CayleyTree.exe.config
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\bin\Debug\day07_CayleyTree.exe
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\bin\Debug\day07_CayleyTree.pdb
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\obj\Debug\day07_CayleyTree.exe
+E:\exercise\hekang_C#\day07_CayleyTree\day07_CayleyTree\obj\Debug\day07_CayleyTree.pdb
