@@ -1,0 +1,10 @@
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\bin\Debug\day08_OrderServiceForm.exe.config
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\bin\Debug\day08_OrderServiceForm.exe
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\bin\Debug\day08_OrderServiceForm.pdb
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\obj\Debug\day08_OrderServiceForm.csprojAssemblyReference.cache
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\obj\Debug\day08_OrderServiceForm.Form1.resources
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\obj\Debug\day08_OrderServiceForm.Properties.Resources.resources
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\obj\Debug\day08_OrderServiceForm.csproj.GenerateResource.cache
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\obj\Debug\day08_OrderServiceForm.csproj.CoreCompileInputs.cache
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\obj\Debug\day08_OrderServiceForm.exe
+E:\exercise\hekang_C#\day08_OrderServiceForm\day08_OrderServiceForm\obj\Debug\day08_OrderServiceForm.pdb
