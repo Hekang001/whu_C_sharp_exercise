@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "day09_SimpleCrawler/1.0.0": {
+        "runtime": {
+          "day09_SimpleCrawler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day09_SimpleCrawler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\bin\Debug\netcoreapp3.1\day09_SimpleCrawler.exe
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\bin\Debug\netcoreapp3.1\day09_SimpleCrawler.deps.json
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\bin\Debug\netcoreapp3.1\day09_SimpleCrawler.runtimeconfig.json
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\bin\Debug\netcoreapp3.1\day09_SimpleCrawler.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\bin\Debug\netcoreapp3.1\day09_SimpleCrawler.dll
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\bin\Debug\netcoreapp3.1\day09_SimpleCrawler.pdb
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\obj\Debug\netcoreapp3.1\day09_SimpleCrawler.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\obj\Debug\netcoreapp3.1\day09_SimpleCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\obj\Debug\netcoreapp3.1\day09_SimpleCrawler.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\obj\Debug\netcoreapp3.1\day09_SimpleCrawler.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\obj\Debug\netcoreapp3.1\day09_SimpleCrawler.dll
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\obj\Debug\netcoreapp3.1\day09_SimpleCrawler.pdb
+C:\Users\Administrator\source\repos\day09_SimpleCrawler\day09_SimpleCrawler\obj\Debug\netcoreapp3.1\day09_SimpleCrawler.genruntimeconfig.cache
