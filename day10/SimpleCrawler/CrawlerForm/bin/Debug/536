@@ -1,0 +1,535 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="origin" />
+    
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>白菜园 - 博客园</title>
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=-oFz8B4m7JhHaZzdTkzPza2oLZNDRR8obnCz6w7OHbU" />
+    <link id="MainCss" rel="stylesheet" href="/skins/darkgreentrip/bundle-darkgreentrip.min.css?v=4KE41eS1YQSSwl64fGzzTUj6ijs-YQFat4AaN-g_jxc" />
+    
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/darkgreentrip/bundle-darkgreentrip-mobile.min.css?v=0pGk3D9Ik_jI4q1TALBT2ybOjIePHS_80_0J4DDOQiY" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/BaiCai/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/BaiCai/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/BaiCai/wlwmanifest.xml" />
+    <script src="https://common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script src="/js/blog-common.min.js?v=z6JkvKQ7L_bGD-nwJExYzsoFf5qnluqZJru6RsfoZuM"></script>
+    <script>
+        var currentBlogId = 8082;
+        var currentBlogApp = 'BaiCai';
+        var cb_enable_mathjax = false;
+        var isLogined = false;
+        var skinName = 'darkgreentrip';
+    </script>
+    
+    
+    
+</head>
+<body>
+    <a name="top"></a>
+    
+    
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+        <a id="lnkBlogLogo" href="https://www.cnblogs.com/BaiCai/"><img id="blogLogo" src="/skins/custom/images/logo.gif" alt="返回主页" /></a>		
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/BaiCai/">BaiCai</a>
+</h1>
+<h2>
+
+</h2>
+
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+	<div id="navigator">
+		
+<ul id="navList">
+<li><a id="blog_nav_sitehome" class="menu" href="https://www.cnblogs.com/">
+博客园</a>
+</li>
+<li>
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/BaiCai/">
+首页</a>
+</li>
+<li>
+
+<a id="blog_nav_newpost" class="menu" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">
+新随笔</a>
+</li>
+<li>
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E7%99%BD%E8%8F%9C%E5%9B%AD">
+联系</a></li>
+<li>
+<a id="blog_nav_rss" class="menu" href="https://www.cnblogs.com/BaiCai/rss/">
+订阅</a>
+<!--<partial name="./Shared/_XmlLink.cshtml" model="Model" /></li>--></li>
+<li>
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+</ul>
+
+
+		<div class="blogStats">
+			
+			<span id="stats_post_count">随笔 - 
+29&nbsp; </span>
+<span id="stats_article_count">文章 - 
+0&nbsp; </span>
+<span id="stats-comment_count">评论 - 
+65</span>
+
+			
+		</div><!--end: blogStats -->
+	</div><!--end: navigator 博客导航栏 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		
+<!--done-->
+
+
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2020/03/06.html">2020年3月6日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/12427364.html">
+[置顶]    一个浏览器搞定前后端开发的低代码框架正式开放源码啦!
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：本来想尽量做完美一点再开放，但个人能力实在有限，无法专注于实现内置分布式数据库，所以想借助社区的力量来验证与推进。 一、框架设计目标： 简单：能有更多的时间专注于业务领域； 灵活：不能有任何限制，能够灵活扩展； 快速：能够尽可能快的开发应用系统； 二、框架整体结构： 左图为整体结构，右图为每个应用节            <a href="https://www.cnblogs.com/BaiCai/p/12427364.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-06 16:40 白菜园 阅读 (724) 评论 (3)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12427364" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2020/04/24.html">2020年4月24日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/12766210.html">
+    AppBoxFuture: Web在线报表设计与PDF生成
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：企业应用需要打印各类单证及报表，为了方便开发此类应用作者在框架内集成了报表引擎，并且实现了基于Canvas的Web在线报表设计及基于PDFJS的报表查看与打印。 一、原理浅析 报表模型：由Xml描述各类报表元素组成（表格、图形、条码等），通过报表设计器生成； 数据源：通过推(Push)或拉(Pull            <a href="https://www.cnblogs.com/BaiCai/p/12766210.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-04-24 11:37 白菜园 阅读 (264) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12766210" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2020/03/12.html">2020年3月12日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/12468567.html">
+    AppBoxFuture实战: 如何同步开发与生产环境的模型
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：框架是用抽象模型驱动的方式来生成应用系统的，这样可以将这些模型序列化为相应的模型包文件，通过反序列化导入至其他部署环境内，从而实现开发环境与生产环境的同步，包括对应的数据库结构的同步。下面通过示例来演示如何操作： 一、准备测试应用 通过New Application创建一个新应用，名称如:erp;             <a href="https://www.cnblogs.com/BaiCai/p/12468567.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-12 13:16 白菜园 阅读 (239) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12468567" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2020/03/06.html">2020年3月6日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/12427364.html">
+    一个浏览器搞定前后端开发的低代码框架正式开放源码啦!
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：本来想尽量做完美一点再开放，但个人能力实在有限，无法专注于实现内置分布式数据库，所以想借助社区的力量来验证与推进。 一、框架设计目标： 简单：能有更多的时间专注于业务领域； 灵活：不能有任何限制，能够灵活扩展； 快速：能够尽可能快的开发应用系统； 二、框架整体结构： 左图为整体结构，右图为每个应用节            <a href="https://www.cnblogs.com/BaiCai/p/12427364.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-03-06 16:40 白菜园 阅读 (724) 评论 (3)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12427364" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2020/02/18.html">2020年2月18日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/12327351.html">
+    AppBoxFuture实战: 如何实现一对多表单的增删改查
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：本篇通过完整示例介绍如何实现一对多关系表单的相应服务及视图。 一、准备数据结构 示例所采用的数据结构为“物资需求”一对多“物资清单”，通过IDE的实体设计器如下所示： 1. 物资(DonateItem) 主键为Id(Guid) 2. 物资需求(Requirement) 主键为Id(Guid) 3.             <a href="https://www.cnblogs.com/BaiCai/p/12327351.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-18 18:20 白菜园 阅读 (234) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12327351" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2019/12/26.html">2019年12月26日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/12101275.html">
+    AppBoxFuture: Sql存储的ORM查询示例
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：上篇介绍集成第三方Sql数据库时未实现如导航属性、子查询等功能，经过大半个月的努力作者初步实现了这些功能，基本上能满足80% 90%查询需求，特别复杂的查询可以用原生sql来处理，下面分别示例介绍。 Like/In/NotIn 分页查询 EntityRef属性自动Left Join 适用于实体建模时            <a href="https://www.cnblogs.com/BaiCai/p/12101275.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2019-12-26 11:55 白菜园 阅读 (213) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12101275" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2019/11/28.html">2019年11月28日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/11950741.html">
+    AppBoxFuture: 集成第三方Sql数据库
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：&amp;emsp;&amp;emsp;框架设计之初是不准备支持第三方数据库的，但最近几个朋友都提到需要将旧的基于传统Sql数据库的应用迁移到框架内，主要是考虑到一方面目前框架内置的分布式数据库尚未完善，另一方面是希望能逐步迭代旧应用替换传统数据库。因此作者还是决定支持第三方数据库，下面介绍如何集成第三方数据库，并            <a href="https://www.cnblogs.com/BaiCai/p/11950741.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2019-11-28 16:16 白菜园 阅读 (255) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=11950741" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2019/10/24.html">2019年10月24日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/11734593.html">
+    AppBoxFuture: 服务模型的在线调试与性能监测
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：&amp;emsp;&amp;emsp;框架内的服务模型（ServiceModel）用于处理各类业务逻辑（如最简单的CRUD操作），在设计时以类似于伪代码的形式存在，发布时后端会通过Roslyn转换并编译为运行时代码。为了方便开发者作者初步实现了在线调试服务与监测服务调用性能的功能，下面分别介绍。 一、服务在线调试            <a href="https://www.cnblogs.com/BaiCai/p/11734593.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2019-10-24 20:18 白菜园 阅读 (237) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=11734593" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2019/09/29.html">2019年9月29日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/11610057.html">
+    AppBoxFuture: Raft快照及日志截断回收
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：&amp;emsp;&amp;emsp;AppBoxFuture的存储引擎依赖Raft一致性协议来保证各个分区副本的一致性，如果不处理Raft日志将不断增长，因此需要特定的机制（定期或每处理一定数量的日志）来回收那些无用的日志数据。通过学习Raft协议内的Log Compaction，并参考TiKV等实现，作者初步            <a href="https://www.cnblogs.com/BaiCai/p/11610057.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2019-09-29 21:13 白菜园 阅读 (238) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=11610057" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2019/09/06.html">2019年9月6日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/11474221.html">
+    告别单体架构，迎接分布式时代!
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：&amp;emsp;&amp;emsp;随着互联网+、智能制造等大数据应用的发展，传统的企业信息化单体架构必定绕不过以下两个坎： 单机资源瓶劲造成系统响应慢，需要高成本升级硬件来解决； 单机故障造成系统不可用，需要较长的时间来恢复故障。 &amp;emsp;&amp;emsp;所以将来的企业信息化基础架构必定是分布式的，AppBo            <a href="https://www.cnblogs.com/BaiCai/p/11474221.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2019-09-06 13:18 白菜园 阅读 (859) 评论 (5)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=11474221" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/BaiCai/archive/2019/08/06.html">2019年8月6日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/11307651.html">
+    AppBoxFuture: 123挨个站-数据按序存储
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：&amp;emsp;&amp;emsp;最近几天在优化存储的编码规则，顺带把之前设计了但未实现的倒排序一并实现了。由于所有数据（元数据、实体、索引等）都映射至RocksDB的Key Value存储，所以必须扩展RocksDB的自定义比较器（Comparator）来实现自定义Key的排序规则。存储层涉及到需要自定义排            <a href="https://www.cnblogs.com/BaiCai/p/11307651.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2019-08-06 11:03 白菜园 阅读 (263) 评论 (0)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=11307651" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+
+<div class="topicListFooter">
+    <div id="nav_next_page">
+        
+    <a href="https://www.cnblogs.com/BaiCai/default.html?page=2">
+        下一页
+    </a>
+
+    </div>    
+</div>
+
+
+
+
+
+
+
+
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			
+<div id="sidebar_news" class="newsItem">
+            <script>loadBlogNews();</script>
+</div>
+
+			<div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script>
+			
+			<div id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+			</div>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		<!--done-->
+Copyright &copy; 2020 白菜园
+<br /><span id="poweredby">Powered by .NET Core on Kubernetes</span>
+
+
+
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+
+    
+</body>
+</html>

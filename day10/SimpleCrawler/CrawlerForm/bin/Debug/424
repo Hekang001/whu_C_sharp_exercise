@@ -1,0 +1,276 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="origin" />
+    <meta property="og:description" content="企业应用需要打印各类单证及报表，为了方便开发此类应用作者在框架内集成了报表引擎，并且实现了基于Canvas的Web在线报表设计及基于PDFJS的报表查看与打印。 一、原理浅析 报表模型：由Xml描述各" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>AppBoxFuture: Web在线报表设计与PDF生成 - 白菜园 - 博客园</title>
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=-oFz8B4m7JhHaZzdTkzPza2oLZNDRR8obnCz6w7OHbU" />
+    <link id="MainCss" rel="stylesheet" href="/skins/darkgreentrip/bundle-darkgreentrip.min.css?v=4KE41eS1YQSSwl64fGzzTUj6ijs-YQFat4AaN-g_jxc" />
+    
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/darkgreentrip/bundle-darkgreentrip-mobile.min.css?v=0pGk3D9Ik_jI4q1TALBT2ybOjIePHS_80_0J4DDOQiY" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/BaiCai/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/BaiCai/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/BaiCai/wlwmanifest.xml" />
+    <script src="https://common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script src="/js/blog-common.min.js?v=z6JkvKQ7L_bGD-nwJExYzsoFf5qnluqZJru6RsfoZuM"></script>
+    <script>
+        var currentBlogId = 8082;
+        var currentBlogApp = 'BaiCai';
+        var cb_enable_mathjax = false;
+        var isLogined = false;
+        var skinName = 'darkgreentrip';
+    </script>
+    
+    
+    
+</head>
+<body>
+    <a name="top"></a>
+    
+    
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+        <a id="lnkBlogLogo" href="https://www.cnblogs.com/BaiCai/"><img id="blogLogo" src="/skins/custom/images/logo.gif" alt="返回主页" /></a>		
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/BaiCai/">BaiCai</a>
+</h1>
+<h2>
+
+</h2>
+
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+	<div id="navigator">
+		
+<ul id="navList">
+<li><a id="blog_nav_sitehome" class="menu" href="https://www.cnblogs.com/">
+博客园</a>
+</li>
+<li>
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/BaiCai/">
+首页</a>
+</li>
+<li>
+
+<a id="blog_nav_newpost" class="menu" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">
+新随笔</a>
+</li>
+<li>
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E7%99%BD%E8%8F%9C%E5%9B%AD">
+联系</a></li>
+<li>
+<a id="blog_nav_rss" class="menu" href="https://www.cnblogs.com/BaiCai/rss/">
+订阅</a>
+<!--<partial name="./Shared/_XmlLink.cshtml" model="Model" /></li>--></li>
+<li>
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+</ul>
+
+
+		<div class="blogStats">
+			
+			<span id="stats_post_count">随笔 - 
+29&nbsp; </span>
+<span id="stats_article_count">文章 - 
+0&nbsp; </span>
+<span id="stats-comment_count">评论 - 
+65</span>
+
+			
+		</div><!--end: blogStats -->
+	</div><!--end: navigator 博客导航栏 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		<div id="post_detail">
+    <!--done-->
+    <div id="topics">
+        <div class="post">
+            <h1 class = "postTitle">
+                
+<a id="cb_post_title_url" class="postTitle2" href="https://www.cnblogs.com/BaiCai/p/12766210.html">AppBoxFuture: Web在线报表设计与PDF生成</a>
+
+            </h1>
+            <div class="clear"></div>
+            <div class="postBody">
+                
+<div id="cnblogs_post_body" class="blogpost-body cnblogs-markdown">
+    <p>  企业应用需要打印各类单证及报表，为了方便开发此类应用作者在框架内集成了报表引擎，并且实现了基于Canvas的Web在线报表设计及基于PDFJS的报表查看与打印。</p>
+<h1 id="一、原理浅析">一、原理浅析</h1>
+<ul>
+<li>报表模型：由Xml描述各类报表元素组成（表格、图形、条码等），通过报表设计器生成；</li>
+<li>数据源：通过推(Push)或拉(Pull)的方式填充报表所需数据，其中Pull模式直接调用框架内服务生成数据源。</li>
+<li>报表生成：报表引擎解析模型后进行布局与数据填充，并根据需要渲染输出pdf或者其他格式。</li>
+</ul>
+<h1 id="二、设计与预览">二、设计与预览</h1>
+<p><img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424111738037-809719058.jpg" alt=""><br>
+<img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424111747003-1477068770.jpg" alt=""></p>
+<h1 id="三、操作说明">三、操作说明</h1>
+<h2 id="1-新建报表">1. 新建报表</h2>
+<p>  通过IDE主菜单-&gt;New-&gt;Report，输入报表名称后点击确认创建。</p>
+<h2 id="2-添加元素">2. 添加元素</h2>
+<p>  切换至工具箱选择需要添加的报表元素，然后在报表设计画布上拖拉添加相应的元素。<br>
+<img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424111809496-1415794667.gif" alt=""></p>
+<h2 id="3-设置样式">3. 设置样式</h2>
+<p>  选择报表元素后通过属性面板设置字体、颜色、对齐方式、边框等样式。<br>
+<img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424111837156-34469253.gif" alt=""><br>
+<img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424111847109-1188141023.gif" alt=""></p>
+<h2 id="4-设置报表数据源">4. 设置报表数据源</h2>
+<p>  在设计画布上点击空白处选择报表，在属性面板点击“DataSets”打开数据源对话框，可从实体模型直接生成DataSet，亦可添加自定义字段或删除不必要的字段。<br>
+<img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424112010738-27206853.png" alt=""></p>
+<h2 id="5-绑定表格数据源">5. 绑定表格数据源</h2>
+<p>  如下图所示选择整个表格，然后在属性面板的“DataSetName”内选择报表数据源。<br>
+<img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424112039958-595720497.jpg" alt=""></p>
+<h2 id="6-添加删除表格列">6. 添加/删除表格列</h2>
+<p><img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424112057669-1497863480.gif" alt=""><br>
+<img src="https://img2020.cnblogs.com/blog/4928/202004/4928-20200424112105439-244780543.gif" alt=""></p>
+<h2 id="7-绑定表达式">7. 绑定表达式</h2>
+<p>  文本框的Value值如果以=符号开头，则表示为表达式：</p>
+<ul>
+<li>={FieldName} 表示绑定数据源的字段；</li>
+<li>={?ParameterName} 表示绑定报表参数；</li>
+<li>={@GlobalName} 表示绑定报表全局变量，如TotalPages, PageNumber等；</li>
+</ul>
+<blockquote>
+<p>页眉或页脚的文本框绑定字段时，只能使用聚合函数，如:=Sum({FieldName}, &quot;数据源名称&quot;)</p>
+</blockquote>
+<h1 id="四、本篇小结">四、本篇小结</h1>
+<p>  前后历时近一个月，还有很多功能未实现，如交叉表、图形、表格分组、单元格合并拆分等，另外需要实现报表HTML输出，支持钻取等功能，这样就是一套完整的BI了。一边码代码一边码文实属不易，作者需要您的支持请您多多点赞推荐！</p>
+
+</div>
+<div id="MySignature"></div>
+<div class="clear"></div>
+<div id="blog_post_info_block">
+    <div id="blog_post_info"></div>
+    <div class="clear"></div>
+    <div id="post_next_prev"></div>
+</div>
+            </div>
+            <div class="postDesc">posted @ 
+<span id="post-date">2020-04-24 11:37</span>&nbsp;
+<a href="https://www.cnblogs.com/BaiCai/">白菜园</a>&nbsp;
+阅读(<span id="post_view_count">...</span>)&nbsp;
+评论(<span id="post_comment_count">...</span>)&nbsp;
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12766210" rel="nofollow">编辑</a>&nbsp;
+<a href="javascript:void(0)" onclick="AddToWz(12766210);return false;">收藏</a></div>
+        </div>
+	    
+	    
+    </div><!--end: topics 文章、评论容器-->
+</div>
+<script src="https://common.cnblogs.com/highlight/9.12.0/highlight.min.js"></script>
+<script>markdown_highlight();</script>
+<script>
+    var allowComments = true, cb_blogId = 8082, cb_blogApp = 'BaiCai', cb_blogUserGuid = '2490310b-63cf-dd11-9e4d-001cf0cd104b';
+    var cb_entryId = 12766210, cb_entryCreatedDate = '2020-04-24 11:37', cb_postType = 1; 
+    loadViewCount(cb_entryId);
+</script><a name="!comments"></a>
+<div id="blog-comments-placeholder"></div>
+<script>
+    var commentManager = new blogCommentManager();
+    commentManager.renderComments(0);
+</script>
+
+<div id="comment_form" class="commentform">
+    <a name="commentform"></a>
+    <div id="divCommentShow"></div>
+    <div id="comment_nav"><span id="span_refresh_tips"></span><a href="javascript:void(0);" onclick="return RefreshCommentList();" id="lnk_RefreshComments" runat="server" clientidmode="Static">刷新评论</a><a href="#" onclick="return RefreshPage();">刷新页面</a><a href="#top">返回顶部</a></div>
+    <div id="comment_form_container"></div>
+    <div class="ad_text_commentbox" id="ad_text_under_commentbox"></div>
+    <div id="ad_t2"></div>
+    <div id="opt_under_post"></div>
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot("/1090369/C1", [300, 250], "div-gpt-ad-1546353474406-0").addService(googletag.pubads());
+            googletag.defineSlot("/1090369/C2", [468, 60], "div-gpt-ad-1539008685004-0").addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+    <div id="cnblogs_c1" class="c_ad_block">
+        <div id="div-gpt-ad-1546353474406-0" style="height:250px; width:300px;"></div>
+    </div>
+    <div id="under_post_news"></div>
+    <div id="cnblogs_c2" class="c_ad_block">
+        <div id="div-gpt-ad-1539008685004-0" style="height:60px; width:468px;">
+            <script>
+                if (new Date() >= new Date(2018, 9, 13)) {
+                    googletag.cmd.push(function () { googletag.display("div-gpt-ad-1539008685004-0"); });
+                }
+            </script>
+        </div>
+    </div>
+    <div id="under_post_kb"></div>
+    <div id="HistoryToday" class="c_ad_block"></div>
+    <script type="text/javascript">
+        fixPostBody();
+        deliverBigBanner();
+setTimeout(function() { incrementViewCount(cb_entryId); }, 50);        deliverAdT2();
+        deliverAdC1();
+        deliverAdC2();
+        loadNewsAndKb();
+        loadBlogSignature();
+LoadPostCategoriesTags(cb_blogId, cb_entryId);        LoadPostInfoBlock(cb_blogId, cb_entryId, cb_blogApp, cb_blogUserGuid);
+        GetPrevNextPost(cb_entryId, cb_blogId, cb_entryCreatedDate, cb_postType);
+        loadOptUnderPost();
+        GetHistoryToday(cb_blogId, cb_blogApp, cb_entryCreatedDate);
+    </script>
+</div>
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			
+<div id="sidebar_news" class="newsItem">
+            <script>loadBlogNews();</script>
+</div>
+
+			<div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script>
+			
+			<div id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+			</div>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		<!--done-->
+Copyright &copy; 2020 白菜园
+<br /><span id="poweredby">Powered by .NET Core on Kubernetes</span>
+
+
+
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+
+    
+</body>
+</html>
